@@ -3,15 +3,15 @@
 # New York Tree Census Dataset Analysis
 
 ## Table of content
-* [Problem Statement]()
-* [Project motivation]()
-* [Methodology]()
+* [Problem Statement](https://github.com/Mr-Om/Data_Engg_zoomcamp_Final_Project#problem-statement)
+* [Project motivation](https://github.com/Mr-Om/Data_Engg_zoomcamp_Final_Project/tree/master#project-motivation)
+* [Methodology](https://github.com/Mr-Om/Data_Engg_zoomcamp_Final_Project#methodology)
     * Clone Project
     * Readme Links
     * [Technologies]()
 * [Results]()
   * [DashBoard and Documentation]()
-* [Acknowledgement]()
+* [Acknowledgement](https://github.com/Mr-Om/Data_Engg_zoomcamp_Final_Project#acknowledgements)
 ## Problem Statement
 The aim of this project is to analyze New York Tree Census Data Set, health distribution of the trees in New York and Top tree species in NY.
 

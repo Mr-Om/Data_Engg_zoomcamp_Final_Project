@@ -8,7 +8,7 @@
 * [Methodology](https://github.com/Mr-Om/Data_Engg_zoomcamp_Final_Project#methodology)
     * Clone Project
     * Readme Links
-    * [Technologies]()
+    * [Technologies](https://github.com/Mr-Om/Data_Engg_zoomcamp_Final_Project#technologies)
 * [Results]()
   * [DashBoard and Documentation]()
 * [Acknowledgement](https://github.com/Mr-Om/Data_Engg_zoomcamp_Final_Project#acknowledgements)

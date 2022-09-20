@@ -13,7 +13,7 @@
   * [DashBoard and Documentation]()
 * [Acknowledgement](https://github.com/Mr-Om/Data_Engg_zoomcamp_Final_Project#acknowledgements)
 ## Problem Statement
-The aim of this project is to analyze New York Tree Census Data Set, health distribution of the trees in New York and Top tree species in NY.
+The aim of this project is to analyze New York Tree Census Data Set to find out health distribution of the trees in New York and Top tree species in NY.
 
 Data source: https://www.kaggle.com/datasets/nycparks/tree-census
 
@@ -24,7 +24,7 @@ The direction I took was to investigate the data,
 find insights, trends and information.
 ## Methodology
 This section shows how all set objectives were achieved, details of setups are in
-separate READMD.md file whose links have been shared
+separate README.md file whose links have been shared
 here below:
 
 * Clone project: ```http

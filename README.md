@@ -18,7 +18,7 @@ The aim of this project is to analyze New York Tree Census Data Set, health dist
 Data source: https://www.kaggle.com/datasets/nycparks/tree-census
 
 ## Project Motivation
-This project is part of Data Engineering Zoomcamp by [Alexey Gregory](https://www.youtube.com/watch?v=bkJZDmreIpA&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb).The data-set 
+This project is part of Data Engineering Zoomcamp by [Alexey Grigorev](https://www.youtube.com/watch?v=bkJZDmreIpA&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb).The data-set 
 "Tree Census in New York City" is from [Kaggle](https://www.kaggle.com/). 
 The direction I took was to investigate the data, 
 find insights, trends and information.
